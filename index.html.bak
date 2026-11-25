@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Galería de trabajos de fontanería realizados por Fontanería Eduardo Quiroz en Torrevieja. Instalación y reparación de termos eléctricos, cisternas, grifos e inodoros. Servicio profesional y urgente.">
+<meta name="keywords" content="fontanero torrevieja, fontanero urgente en torrevieja, fontaneria torrevieja, termos eléctricos, reparación cisternas, instalación inodoros, grifos, Fontanería Eduardo Quiroz">
+<title>Trabajos de Fontanería Realizados - Torrevieja | Fontanería Eduardo Quiroz</title>
+<style>
+body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; padding: 0;}
+.container { max-width: 1200px; margin: auto; padding: 20px;}
+h1 { color: #004080; text-align: center; }
+h2 { color: #0066cc; margin-top: 40px; }
+h3 { color: #003366; margin-top: 30px; }
+.card { background: #fff; border-radius: 8px; padding: 20px; margin-bottom: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);}
+.card img { width: 100%; border-radius: 8px; margin-bottom: 15px;}
+.buttons { margin-top: 15px; display: flex; flex-wrap: wrap; gap: 10px; }
+.button { text-decoration: none; padding: 10px 20px; border-radius: 5px; color: #fff; font-weight: bold; display: inline-block;}
+.whatsapp { background-color: #25D366; }
+.call { background-color: #007bff; }
+.catalog { background-color: #ff6600; }
+.virtual { background-color: #8e44ad; }
+</style>
+</head>
+<body>
+<div class="container">
+<h1>Trabajos de Fontanería Realizados - Torrevieja</h1>
+<h1>Our Works - Virtual Plumber Torrevieja</h1>
+
+<!-- Termo Slim 50L -->
+<div class="card">
+<img src="images/termo-torrevieja-slim-01.jpg" alt="Termo Slim 50L instalado en Torrevieja">
+<h2>Termo Slim 50L instalado en Torrevieja</h2>
+<p>Instalación profesional de un termo eléctrico Slim de 50 litros, con enfoque integral en eficiencia energética, seguridad y durabilidad. Se revisaron todas las conexiones de agua y electricidad, se aplicó aislamiento térmico adecuado y se comprobó la presión para garantizar un funcionamiento óptimo sin fugas. Fontanería Eduardo Quiroz asegura suministro constante de agua caliente, mantenimiento sencillo y cumplimiento de normativas locales.</p>
+<h3>Professional installation of a 50L Slim electric water heater in Torrevieja</h3>
+<p>Safe and efficient installation following the highest plumbing standards. All water and electrical connections are checked, thermal insulation applied, and pressure tests conducted to ensure leak-free operation. This service by Fontanería Eduardo Quiroz provides reliable hot water supply, easy maintenance, and adherence to local regulations.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+<!-- Termo Simat 50L -->
+<div class="card">
+<img src="images/termo-torrevieja-simat-01.jpg" alt="Termo Simat 50L instalado en Torrevieja">
+<h2>Termo Simat 50L instalado en Torrevieja</h2>
+<p>Instalación de termo eléctrico Simat de 50 litros, enfocada en rendimiento, durabilidad y seguridad. Se revisaron conexiones hidráulicas y eléctricas, se realizaron pruebas de presión y se comprobó correcto sellado y válvulas de seguridad. Fontanería Eduardo Quiroz garantiza agua caliente constante, mantenimiento sencillo y cumplimiento de normativas técnicas.</p>
+<h3>Installation of a 50L Simat electric water heater in Torrevieja</h3>
+<p>Professional installation focused on durability, performance, and safety. All hydraulic and electrical connections were checked, pressure tests performed, joints sealed, and safety valves installed. Fontanería Eduardo Quiroz ensures consistent hot water supply, easy maintenance, and compliance with technical standards.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+<!-- Reparación termo 50L en Guardamar -->
+<div class="card">
+<img src="images/reparacion-termo-guardamar.jpg" alt="Reparación termo 50L en Guardamar">
+<h2>Reparación termo 50L en Guardamar</h2>
+<p>Servicio urgente de reparación de termo eléctrico de 50 litros en Guardamar. Incluye diagnóstico completo, reemplazo de componentes defectuosos, pruebas de presión y seguridad. Fontanería Eduardo Quiroz garantiza reparación rápida y confiable, restaurando suministro de agua caliente de manera eficiente para residencias y apartamentos.</p>
+<h3>Urgent repair service of a 50L electric water heater in Guardamar</h3>
+<p>Fast and reliable repair including full diagnosis, replacement of faulty parts, and pressure and safety testing. Fontanería Eduardo Quiroz ensures efficient restoration of hot water supply. Perfect for homes and apartments in Torrevieja and nearby areas.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+<!-- Reparación cisterna Torrevieja -->
+<div class="card">
+<img src="images/reparacion-cisterna-torrevieja-01.jpg" alt="Reparación de cisterna en Torrevieja">
+<h2>Reparación de cisterna en Torrevieja</h2>
+<p>Reparación completa de cisterna de inodoro, solucionando fugas, bloqueos y problemas de presión. Fontanería Eduardo Quiroz revisa mecanismos internos, llaves de paso y niveles de agua. Se realiza limpieza, sustitución de piezas desgastadas y prueba final asegurando óptimo funcionamiento y durabilidad.</p>
+<h3>Fast and effective toilet cistern repair in Torrevieja</h3>
+<p>Complete repair addressing leaks, blockages, and pressure issues. Fontanería Eduardo Quiroz checks internal mechanisms, shut-off valves, and water levels. Cleaning, replacement of worn parts, and final testing ensure optimal performance.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+<!-- Instalación inodoro La Zenia -->
+<div class="card">
+<img src="images/instalacion-inodoro-la-zenia-01.jpg" alt="Instalación de inodoro en La Zenia">
+<h2>Instalación de inodoro en La Zenia</h2>
+<p>Instalación profesional de inodoro, garantizando nivelación, conexión segura de agua y revisión de presión. Fontanería Eduardo Quiroz asegura higiene, confort y cumplimiento normativo. Incluye inspección de tuberías, ajuste de mecanismos y prueba final para evitar filtraciones.</p>
+<h3>Professional toilet installation in La Zenia</h3>
+<p>Accurate leveling, secure water connection, and pressure inspection ensure hygiene, comfort, and compliance. Pipes inspected, mechanisms adjusted, and final testing prevents leaks.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+<!-- Instalación grifo Torrevieja -->
+<div class="card">
+<img src="images/grifo-fregadero-torrevieja-01.jpg" alt="Instalación de grifo en Torrevieja">
+<h2>Instalación de grifo en Torrevieja</h2>
+<p>Instalación de grifo de fregadero, asegurando flujo constante de agua, conexiones seguras y sellado correcto. Fontanería Eduardo Quiroz realiza pruebas de presión, limpieza de tuberías y revisión completa de la instalación. Servicio confiable, duradero y profesional.</p>
+<h3>Sink faucet installation in Torrevieja</h3>
+<p>Professional faucet installation with consistent water flow, secure connections, and proper sealing. Pressure tests, pipe cleaning, and full inspection ensure a durable and safe kitchen installation.</p>
+<div class="buttons">
+<a class="button whatsapp" href="https://wa.me/34603398960">WhatsApp</a>
+<a class="button call" href="tel:+34603398960">Llamar</a>
+<a class="button catalog" href="https://fontaneriaeduardoquiroz.webador.es/">Catálogo de Termos</a>
+<a class="button virtual" href="https://koroacuna-cell.github.io/fontanero-virtual/">Fontanero Virtual</a>
+</div>
+</div>
+
+</div>
+</body>
+</html>
